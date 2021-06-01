@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 [![Brian's github stats](https://github-readme-stats.vercel.app/api?username=bfl3tch)](https://github.com/bfl3tch/github-readme-stats)
-# Scott Borecki
+
 
 🙋‍♂️ he/him <br />
 
