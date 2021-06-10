@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  -->
 
-
-[![Brian's github stats](https://github-readme-stats.vercel.app/api?username=bfl3tch)](https://github.com/bfl3tch/github-readme-stats)
-
-
 🙋‍♂️ he/him <br />
 
 <!-- 🤓 Passion for back-end engineering and problem-solving with over 10 years of project management and consulting experience in geotechnical engineering.  Highly motivated and detailed-oriented self-learner who thrives on living at the intersection of the technical and creative. <br /> -->
@@ -44,5 +40,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/OOP%20-2A42D0.svg?&style=for-the-badge&logo=OOP&logoColor=white" />
   <img src="https://img.shields.io/badge/TDD%20-B8189A.svg?&style=for-the-badge&logo=TDD&logoColor=white" />
 </p>
+
+
+[![Brian's github stats](https://github-readme-stats.vercel.app/api?username=bfl3tch)](https://github.com/bfl3tch/github-readme-stats)
+
 
 <!-- [![Scott's github stats](https://github-readme-stats.vercel.app/api?username=scott-borecki)](https://github.com/scott-borecki/github-readme-stats) -->
