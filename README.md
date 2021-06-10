@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 <!-- 🎸 Producer / audio engineer, [Oven Fresh Sounds](https://www.ovenfreshsounds.com/) <br/> -->
 🎓 Back-End Engineering Student, [Turing School of Software & Design](https://turing.edu/), 2021 <br/>
+
 🔎 [LinkedIn](https://www.linkedin.com/in/bfl3tch/) </br>
 
 ## SKILLS
