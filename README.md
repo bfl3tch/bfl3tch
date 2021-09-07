@@ -1,6 +1,9 @@
 ### Hi, I'm Brian 👋
 
-##### I have a passion for problem solving, from the simplest of repairs to when lives are at stake.  I like to be a part of logical, thoughtful solutions, and I believe teams are what get us there.  I have a passion for leadership communication and environmental issues.  
+##### I have a passion for problem solving, from the simplest of repairs to when lives are at stake. I like to be a part of logical, thoughtful solutions, and I believe teams are what get us there.
+
+#### Things I love talking about:
+##### 🪖 leadership communication 🌲 environmental issues 🌄 the great outdoors 🏀 🏈 sports any sort 🏕 travel
 <!-- **bfl3tch/bfl3tch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!-- 
 Here are some ideas to get you started:
@@ -14,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -->
-
+### About Me
 🙋‍♂️ he/him <br />
 
 <!-- 🤓 Passion for back-end engineering and problem-solving with over 10 years of project management and consulting experience in geotechnical engineering.  Highly motivated and detailed-oriented self-learner who thrives on living at the intersection of the technical and creative. <br /> -->
