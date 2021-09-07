@@ -1,6 +1,6 @@
 ### Hi, I'm Brian 👋
 
-##### I have a passion for problem solving, from the simplest of repairs to when lives are literally on the line.  I like to be a part of logical, thoughtful solutions, and I believe teams are what get us there.  I have a passion for leadership communication and environmental issues.  
+##### I have a passion for problem solving, from the simplest of repairs to when lives are at stake.  I like to be a part of logical, thoughtful solutions, and I believe teams are what get us there.  I have a passion for leadership communication and environmental issues.  
 <!-- **bfl3tch/bfl3tch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!-- 
 Here are some ideas to get you started:
