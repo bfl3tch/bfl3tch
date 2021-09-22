@@ -3,7 +3,16 @@
 ##### I have a passion for problem solving, from the simplest of repairs to when the stakes couldn't be higher. I like to be a part of logical, thoughtful solutions, and I believe teams are what get us there.
 
 #### Things (other than programmimg) that I love talking about:
-##### 🪖 leadership 🌲 environmental issues  🌄  the great outdoors 🔨🪚 DIY 🏀 🏈 🏃🏼‍♂🏄🏼‍♂️ sports 🏕 travel  🚤 🎣 boating/fishing 📀 💾 vintage video games<!-- **bfl3tch/bfl3tch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+Leadership 🪖  <br/>
+Environmental issues 🌲 🏔 🐋 <br/> 
+The great outdoors 🌄  <br/>
+DIY 🔨🪚  <br/>
+Sports 🏀 🏈 🏃🏼‍♂ 🏄🏼‍♂️  <br/>
+Travel 🏕 <br/>
+Boating 🚤  🎣  <br/>
+Vintage video games 📀 💾  <br/>
+
+<!-- **bfl3tch/bfl3tch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!-- 
 Here are some ideas to get you started:
 
