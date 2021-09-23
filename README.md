@@ -2,12 +2,12 @@
 
 ##### I have a passion for problem solving, from the simplest of repairs to when the stakes couldn't be higher. I like to be a part of logical, thoughtful solutions, and I believe teams are what get us there.
 
-#### Things (other than programmimg) that I love talking about:
-Leadership 🪖  <br/>
+#### Things (other than programming) that I love talking about:
 Environmental issues 🌲 🏔 🐋 <br/> 
 The great outdoors 🌄  <br/>
 DIY 🔨🪚  <br/>
 Sports 🏀 🏈 🏃🏼‍♂ 🏄🏼‍♂️  <br/>
+Leadership 🪖  <br/>
 Travel 🏕 <br/>
 Boating 🚤  🎣  <br/>
 Vintage video games 📀 💾  <br/>
