@@ -4,9 +4,9 @@
 
 #### Things (other than programming) that I love talking about:
 Environmental issues 🌲 🏔 🐋 <br/> 
+Sports 🏀 🏈 🏃🏼‍♂ 🏄🏼‍♂️  <br/>
 The great outdoors 🌄  <br/>
 DIY 🔨🪚  <br/>
-Sports 🏀 🏈 🏃🏼‍♂ 🏄🏼‍♂️  <br/>
 Leadership 🪖  <br/>
 Travel 🏕 <br/>
 Boating 🚤  🎣  <br/>
