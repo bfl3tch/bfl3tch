@@ -27,9 +27,7 @@ Here are some ideas to get you started:
  -->
 ### About Me
 
-<!-- 🤓 Passion for back-end engineering and problem-solving with over 10 years of project management and consulting experience in geotechnical engineering.  Highly motivated and detailed-oriented self-learner who thrives on living at the intersection of the technical and creative. <br /> -->
-
-<!-- 🎸 Producer / audio engineer, [Oven Fresh Sounds](https://www.ovenfreshsounds.com/) <br/> -->
+👨‍💼  Software Engineer @ [SportsEngine](www.sportsengine.com) (NBC Sports Next)<br/><br/>
 🎓 Back-End Engineering, [Turing School of Software & Design](https://turing.edu/), 2021 <br/><br/>
 🇺🇸 Proud USCG veteran <br/>
 ## Connect With Me
