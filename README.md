@@ -1,5 +1,8 @@
 ### Hi, I'm Brian 🙋‍♂️ (he/him)
 
+<details>
+ <summary>About me</summary>
+ 
 ##### I have a passion for problem solving, from the simplest of repairs to when the stakes couldn't be higher. I like to be a part of logical, thoughtful solutions, and I believe teams are what get us there.
 
 #### Things (other than programming) that I love talking about:
@@ -12,6 +15,8 @@ Travel 🏕 <br/>
 Boating 🚤  🎣  <br/>
 Vintage video games 📀 💾  <br/>
 
+ </details>
+ 
 <!-- **bfl3tch/bfl3tch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!-- 
 Here are some ideas to get you started:
@@ -25,7 +30,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -->
-### About Me
 
 👨‍💼  Software Engineer @ [SportsEngine](www.sportsengine.com) (NBC Sports Next)<br/><br/>
 🎓 Back-End Engineering, [Turing School of Software & Design](https://turing.edu/), 2021 <br/><br/>
