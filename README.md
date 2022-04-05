@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  -->
 
-👨‍💼  Software Engineer @ [SportsEngine](www.sportsengine.com) (NBC Sports Next)<br/><br/>
+👨‍💼  Software Engineer @ [SportsEngine](https://www.sportsengine.com) (NBC Sports Next)<br/><br/>
 🎓 Back-End Engineering, [Turing School of Software & Design](https://turing.edu/), 2021 <br/><br/>
 🇺🇸 Proud USCG veteran <br/>
 ## Connect With Me
