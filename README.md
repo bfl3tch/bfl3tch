@@ -32,6 +32,3 @@ Leadership 🪖  <br/>
 
 [![Brian's github stats](https://github-readme-stats.vercel.app/api?username=bfl3tch&theme=onedark)](https://github.com/bfl3tch/github-readme-stats)
 [![Brian's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bfl3tch&layout=compact&theme=onedark)](https://github.com/bfl3tch/github-readme-stats)
-
-
-<!-- [![Scott's github stats](https://github-readme-stats.vercel.app/api?username=scott-borecki)](https://github.com/scott-borecki/github-readme-stats) -->
