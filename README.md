@@ -1,4 +1,5 @@
 👨‍💼  Software Engineer @ [SportsEngine](https://www.sportsengine.com) (NBC Sports Next)<br/><br/>
+🎓 B.S. Organziational Leadership, [Colorado State University](https://csuglobal.edu/), 2017 <br/><br/>
 🎓 Back-End Engineering, [Turing School of Software & Design](https://turing.edu/), 2021 <br/><br/>
 🇺🇸 Proud USCG veteran <br/>
 ## Connect With Me
